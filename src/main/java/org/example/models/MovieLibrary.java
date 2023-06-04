@@ -1,6 +1,6 @@
-package org.example;
+package org.example.models;
 
-public class Main {
+public class MovieLibrary {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
